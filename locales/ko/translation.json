@@ -205,5 +205,7 @@
   "You must provide valid URL including protocol version": "You must provide valid URL including protocol version",
   "Attention! This is irreversible operation": "Attention! This is irreversible operation",
   "Idena validation will start soon": "Idena validation will start soon",
-  "Keep your app opened": "Keep your app opened"
+  "Keep your app opened": "Keep your app opened",
+  "Validate": "Validate",
+  "Please wait. The network is reaching consensus about validated identities": "Please wait. The network is reaching consensus about validated identities"
 }
