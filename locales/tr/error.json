@@ -1,0 +1,16 @@
+{
+  "Can not submit flip": "Kart gönderilemedi",
+  "Keywords are not specified": "Anahtar kelimeler belirtilmedi",
+  "Error while uploading flip": "Kart yüklenirken hata oluþtu",
+  "Something went wrong": "Bir þeyler yanlýþ gitti",
+  "Maximum image size exceeded": "Maksimum resim boyutu aþýldý",
+  "Error while importing key": "Anahtar içe aktarýlýrken hata oluþtu",
+  "Internal node is not available, try again in a few seconds": "Dahili düðüm kullanýlamýyor, birkaç saniye içinde tekrar deneyin",
+  "You can not submit flips having 'Candidate' status": "'Aday' statüsüne sahipken kart gönderemezsiniz",
+  "You cannot submit more flips until the next validation": "Bir sonraki doðrulamaya kadar daha fazla kart gönderemezsiniz",
+  "Can not submit flip during the validation session": "Doðrulama oturumu sýrasýnda kart gönderilemiyor",
+  "Error while sending transaction": "Ýþlem gönderilirken hata oluþtu",
+  "Transaction sent": "Ýþlem gönderildi",
+  "Error while deleting flip": "Kart silinirken hata oluþtu",
+  "It's not allowed to submit flips with your identity status": "Kimlik durumunuzla ilgili kart göndermenize izin verilmiyor"
+}
